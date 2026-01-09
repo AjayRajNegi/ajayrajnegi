@@ -5,37 +5,37 @@
 
 ---
 
-### 🔭 Currently Working On
+#### Currently Working On
 
 [RedSan](https://www.redsan.in) - Building innovative solutions
 
-### 🌱 Currently Learning
+#### Currently Learning
 
 **Rust, Solana**
 
-### 🤝 Looking for Help With
+#### Looking for Help With
 
 [vartex](https://github.com/AjayRajNegi/vartex) - Check it out and contribute!
 
-### 👨‍💻 Projects
+#### Projects
 
 All of my projects are available at [github.com/AjayRajNegi](https://github.com/AjayRajNegi)
 
-### 💬 Ask Me About
+#### Ask Me About
 
 **Web Development** - Frontend, Backend, Full-stack solutions
 
-### 📫 Reach Me
+#### Reach Me
 
 **ajayrajnegi1608@gmail.com**
 
-### ⚡ Fun Fact
+#### Fun Fact
 
 Too tired to think of any.
 
 ---
 
-## Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://twitter.com/ajayrajnegi1608" target="_blank">
