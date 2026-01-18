@@ -5,33 +5,19 @@
 
 ---
 
-#### Currently Working On
+#### Currently Working On: [RedSan](https://www.redsan.in) - Building innovative solutions
 
-[RedSan](https://www.redsan.in) - Building innovative solutions
+#### Currently Learning: **Rust, Solana**
 
-#### Currently Learning
+#### Looking for Help With: [vartex](https://github.com/AjayRajNegi/vartex) - Check it out and contribute!
 
-**Rust, Solana**
+#### Projects: All of my projects are available at [github.com/AjayRajNegi](https://github.com/AjayRajNegi)
 
-#### Looking for Help With
+#### Ask Me About: **Web Development** - Frontend, Backend, Full-stack solutions
 
-[vartex](https://github.com/AjayRajNegi/vartex) - Check it out and contribute!
+#### Reach Me: **ajayrajnegi1608@gmail.com**
 
-#### Projects
-
-All of my projects are available at [github.com/AjayRajNegi](https://github.com/AjayRajNegi)
-
-#### Ask Me About
-
-**Web Development** - Frontend, Backend, Full-stack solutions
-
-#### Reach Me
-
-**ajayrajnegi1608@gmail.com**
-
-#### Fun Fact
-
-Too tired to think of any.
+#### Fun Fact: Too tired to think of any.
 
 ---
 
