@@ -7,7 +7,9 @@
 
 #### Ask Me About: 
 **Web Development** - Frontend, Backend, Full-stack solutions
+
 **Web3 Development** - Solana, Rust, Anchor
+
 **DevOps** - Docker, CI/CD Pipelines, Linux
 
 #### Reach Me: **ajayrajnegi1608@gmail.com**
