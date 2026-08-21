@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi 👋, I'm Ajay</h1>
-  <h3>I love Tech👍🏻. I really like every stream of Engineering but currently a full-stack developer with some dev-ops to back me up.</h3>
+  <h1>Hi, I'm Ajay</h1>
+  <h3>I love Tech. I really like every stream of Engineering but currently a full-stack developer with some dev-ops to back me up.</h3>
 </div>
 
 ---
@@ -8,31 +8,7 @@
 #### Ask Me About: 
 **Web Development** - Frontend, Backend, Full-stack solutions
 
-**Web3 Development** - Solana, Rust, Anchor
-
 **DevOps** - Docker, CI/CD Pipelines, Linux
-
-#### Reach Me: **ajayrajnegi1608@gmail.com**
-
-#### Fun Fact: Too tired to think of any.
-
----
-
-### Connect with Me
-
-<div align="center">
-  <a href="https://twitter.com/ajayrajnegi1608" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ajay raj negi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/_ajay.html_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
 
 ---
 
